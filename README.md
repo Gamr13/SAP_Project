@@ -11,7 +11,7 @@ How to execute:
 
 5) run `node server.js` to execute the JavaScript server. 
 
-6) Run Visual Studio Code with this plugin: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+6) Run Visual Studio Code and install this plugin: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 7) Open index.html in Visual Studio Code
 
